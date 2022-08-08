@@ -1,0 +1,4 @@
+
+    [console_scripts]
+    manager=man_cli:man_cli
+    

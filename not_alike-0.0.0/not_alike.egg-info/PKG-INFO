@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: not-alike
+Version: 0.0.0
+Summary: This package is an interprocess manager of a pipeline that finds not alike regions of query genome compared to a hugh list of different genomes
+Home-page: https://www.github.com/exseivier/
+Author: Javier Montalvo
+Author-email: buitrejma@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.9

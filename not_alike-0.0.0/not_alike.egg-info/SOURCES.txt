@@ -1,0 +1,9 @@
+man_cli.py
+setup.py
+not_alike.egg-info/PKG-INFO
+not_alike.egg-info/SOURCES.txt
+not_alike.egg-info/dependency_links.txt
+not_alike.egg-info/entry_points.txt
+not_alike.egg-info/requires.txt
+not_alike.egg-info/top_level.txt
+scripts/not_alike.sh
